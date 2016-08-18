@@ -21,7 +21,18 @@ The Active Hunt Mode is intended to cater to players who are out hunting Pokemon
   - Searchable filter list
   - Light and Dark theme (for night hunting)
   - Support Android 4.4+
+  - Light weight and battery conscious -- as a background service can be
 
+-------------
+
+####Features NOT supported -- by design
+
+  - Remote scanning
+  - Pokemon catching
+  - Pokestop looting
+  - Egg walking
+  - Multi-account
+  
 -------------
 ####Screenshots
 <p align="center">
