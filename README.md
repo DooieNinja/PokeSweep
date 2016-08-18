@@ -7,8 +7,7 @@ PokeSweep's primary focus is to run in the background and notify the player of i
 
 The Active Hunt Mode is intended to cater to players who are out hunting Pokemons.  When this mode is enabled, it will prevent the phone from going to sleep.  This will remove the player's concern to keep the phone on while tracking Pokemon.  It is best used in conjunction with a secondary device used to run the main Pokemon GO game.
 
-**DO NOT USE YOUR MAIN ACCOUNT WITH POKESWEEP. **
-**YOUR ACCOUNT MAY RECEIVE A BAN.  YOU HAVE BEEN WARNED.**
+>**DO NOT USE YOUR MAIN ACCOUNT WITH POKESWEEP.  YOUR ACCOUNT MAY RECEIVE A BAN.  YOU HAVE BEEN WARNED.**
 
 -------------
 
