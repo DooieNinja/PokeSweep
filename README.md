@@ -38,6 +38,13 @@ The Active Hunt Mode is intended to cater to players who are out hunting Pokemon
 
 ####Change Logs
 
+**v1.0.3**
+
+- Added pausing scan if moving above 30mph/48kph -- pointless if you're not around to catch
+- Added option to disable pause scan when moving too fast -- enable by default
+- Better at pruning
+- Better error handling during login
+
 **v1.0.2**
 
 - Rewrite Compass to be smoother
