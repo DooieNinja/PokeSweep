@@ -38,12 +38,15 @@ The Active Hunt Mode is intended to cater to players who are out hunting Pokemon
 
 ####Change Logs
 
-**v1.0.4**
+**v1.0.6**
 
-- Added Lured Pokemon marker for clarify
-- Fixed moving fast detection
-- Fixed caught state pruning -- again...
-- Minor text edit ;)
+- Switched to Google's motion detection for better response of pausing during fast motion.
+- Only switch on motion detection when detected moving over 300 meters over 10 seconds -- for speedy scanning resume.
+- Misc default value refactoring in settings
+
+**v1.0.5**
+
+- Added FCM for future update notification
 
 **v1.0.3**
 
