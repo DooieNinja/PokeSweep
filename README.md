@@ -5,7 +5,7 @@ Download:  [Latest Version](https://github.com/DooieNinja/PokeSweep/releases)
 
 PokeSweep's primary focus is to run in the background and notify the player of items of interests.  Its secondary focus is to direct the player to the item of interest.  As such, PokeSweep does NOT do remote scanning -- this is by design.  It is intended to be a lightweight assistant who will wake up at pre-configured interval and "look around" the player's present location for potential Pokemons or Pokestops.  PokeSweep is created to be a companion app for the official Pokemon GO game.  It is NOT intended to ever become anything automated such as catching Pokemon or looting Pokestops.
 
-The Active Hunt Mode is intended to cater to players who are out hunting Pokemons.  When this mode is enabled, it will prevent the phone from going to sleep.  This will remove the player's concern to keep the phone on while tracking Pokemon.  It is best used in conjunction with a secondary device used to run the main Pokemon GO game.
+The Active Hunt Mode is intended to cater to players who are out hunting Pokemons.  When this mode is enabled, it will prevent the phone from going to sleep, sets scanning rate to fastest, and sets scanning radius to widest.  This will remove the player's concern to keep the phone on while tracking Pokemon.  It is best used in conjunction with a secondary device used to run the main Pokemon GO game.
 
 >**DO NOT USE YOUR MAIN ACCOUNT WITH POKESWEEP.  YOUR ACCOUNT MAY RECEIVE A BAN.  YOU HAVE BEEN WARNED.**
 
@@ -37,6 +37,13 @@ The Active Hunt Mode is intended to cater to players who are out hunting Pokemon
 -------------
 
 ####Change Logs
+
+**v1.0.7**
+
+- Set moving fast threshold to 30mph... 300 meters / 10 seconds was actually over 67mph...
+- Updated PokeGOAPI-Java
+- Fixed crashing bug due to null Compass
+- Misc UI tweaks
 
 **v1.0.6**
 
