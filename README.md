@@ -75,12 +75,11 @@ The Active Hunt Mode is intended to cater to players who are out hunting Pokemon
 -------------
 ####Screenshots
 <p align="center">
-<img src="https://cloud.githubusercontent.com/assets/21098060/17766706/4c097e08-64e1-11e6-9f74-466b27efd01c.png" width="300"/> <img src="https://cloud.githubusercontent.com/assets/21098060/17766704/4c0832b4-64e1-11e6-9ee7-f3adfb99bd5a.png" width="300"/>
+<img src="https://cloud.githubusercontent.com/assets/21098060/18103137/388cdec4-6eaa-11e6-99b7-2b14c1c8eeca.png" width="300"/>  <img src="https://cloud.githubusercontent.com/assets/21098060/17832968/2f7a5d66-66c6-11e6-983a-4c68e8664793.png" width="300"/>  <img src="https://cloud.githubusercontent.com/assets/21098060/17766705/4c0920ca-64e1-11e6-84a7-fc752118257d.png" width="300"/>
 
-<img src="https://cloud.githubusercontent.com/assets/21098060/17766735/6882074e-64e1-11e6-920c-49de5b6e0e92.png" width="300"/> <img src="https://cloud.githubusercontent.com/assets/21098060/17766708/4c0c53b2-64e1-11e6-973a-ad2489ff7ea2.png" width="300"/>
+<img src="https://cloud.githubusercontent.com/assets/21098060/17766706/4c097e08-64e1-11e6-9f74-466b27efd01c.png" width="300"/>  <img src="https://cloud.githubusercontent.com/assets/21098060/17766704/4c0832b4-64e1-11e6-9ee7-f3adfb99bd5a.png" width="300"/>  <img src="https://cloud.githubusercontent.com/assets/21098060/17766735/6882074e-64e1-11e6-920c-49de5b6e0e92.png" width="300"/>
 
-<img src="https://cloud.githubusercontent.com/assets/21098060/17766707/4c0a346a-64e1-11e6-9e6f-801cf370e8c1.png" width="300"/> <img src="https://cloud.githubusercontent.com/assets/21098060/17766705/4c0920ca-64e1-11e6-84a7-fc752118257d.png" width="300"/>
-<img src="https://cloud.githubusercontent.com/assets/21098060/17766709/4c107abe-64e1-11e6-908b-e3f8795ac514.png" width="300"/> <img src="https://cloud.githubusercontent.com/assets/21098060/17832968/2f7a5d66-66c6-11e6-983a-4c68e8664793.png" width="300"/>
+<img src="https://cloud.githubusercontent.com/assets/21098060/17766708/4c0c53b2-64e1-11e6-973a-ad2489ff7ea2.png" width="300"/>  <img src="https://cloud.githubusercontent.com/assets/21098060/17766707/4c0a346a-64e1-11e6-9e6f-801cf370e8c1.png" width="300"/>  <img src="https://cloud.githubusercontent.com/assets/21098060/17766709/4c107abe-64e1-11e6-908b-e3f8795ac514.png" width="300"/>
 </p>
 
 -------------
